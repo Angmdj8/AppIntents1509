@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Intents</string>
+    <string name="btn">Enviar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="nombre">Tu Nombre</string>
+    <string name="email">Tu Correo</string>
+    <string name="asunto">Asunto</string>
+    <string name="limpiar">Limpiar Campos</string>
+    <string name="formulario">Formulario de contactos</string>
+    <string name="resumen">Resumen del mensaje</string>
+</resources>
